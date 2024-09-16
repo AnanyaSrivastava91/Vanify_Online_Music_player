@@ -121,3 +121,8 @@ nav ul li a{
       display: block;
     }
   }
+  .cont{
+    justify-content: center;
+    align-items: center;
+    
+  }
